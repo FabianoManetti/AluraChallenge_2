@@ -169,4 +169,4 @@ It was provided by the company a dataset containing the historical information o
 
 Link for the web  app: https://fabianomanetti-alurachallenge-2-app-2fn8rn.streamlitapp.com/?embedded=true
 
-![Alt Text](webapp_churn.gif)
+![Alt Text](webapp_default.gif)
