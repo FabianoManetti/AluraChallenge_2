@@ -175,4 +175,6 @@ Link for the web  app: https://fabianomanetti-alurachallenge-2-app-2fn8rn.stream
 
 * It was used `Power BI`software to create a dashboard showing the main client statistics.
 
+Link for the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzZhZmM3ZTItNzIwZC00NjNlLTk0MTYtZTNiOTFmMDJiMGY4IiwidCI6IjA4ZDY3NWMwLWJkYTQtNDkzZC04MmI3LWU2YTM3MmQ5NTQ3ZCJ9
+
 <center><img src="Dashboard.png"></center><br>
