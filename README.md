@@ -87,7 +87,7 @@ It was provided by the company a dataset containing the historical information o
 ### Checking for inconsistencies
 
 * It was identified **4 null values** for `person_id` that wasn't identified by the Pandas method .info. Besides, the numbers of null values for `person_emp_length` didn't match too. Later, those inconsistencies were identified as being **missing values** that represented only **0.01%* of the final dataframe
-* Some inconsistencies were found onn both `person_age` (max_age = 144 years) and `person_emp_length` (max_emp_length = 123 years) columns
+* Some inconsistencies were found on both `person_age` (max_age = 144 years) and `person_emp_length` (max_emp_length = 123 years) columns
 * There were no **apparent** duplicate data
 
 ### Joining tables and exporting the final dataframe
