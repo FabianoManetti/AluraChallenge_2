@@ -2,7 +2,7 @@
  
 ## Week 01
 
-<center><img src="alura_cash.png" width="1000" height="1000"></center><br>
+<center><img src="alura_cash.png"></center><br>
 
 The international digital bank **Alura Cash** is facing challenges in its loan sector, where the clients' default is recurrently increasing. This way, it's important to comprehend the main features that affect most the default. The company also requires a prediction model in order to classify the currently client loan and the new ones by the risk of default.
 
