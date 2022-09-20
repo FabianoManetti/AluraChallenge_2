@@ -171,6 +171,6 @@ Link for the web  app: https://fabianomanetti-alurachallenge-2-app-2fn8rn.stream
 
 ![Alt Text](webapp_default.gif)
 
-### Creatin a Dashboard
+### Creating a Dashboard
 
 <center><img src="Dashboard.png"></center><br>
