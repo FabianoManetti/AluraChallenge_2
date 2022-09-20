@@ -114,7 +114,7 @@ It was provided by the company a dataset containing the historical information o
 
 * Following company's **orientation**, the missing values were removed
 
-### Identifyin and treating Outliers
+### Identifying and treating Outliers
 
 * It was visually identify some **outliers** in the plots. They were basically located on the right of boxplots and also cause a distortion in the respective histograms
 * The outliers werer removed from the dataset
