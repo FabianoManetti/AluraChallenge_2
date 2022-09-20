@@ -140,7 +140,7 @@ It was provided by the company a dataset containing the historical information o
 
 ### Creating predictive models
 
-* First, it was checked the **correlation** and choosed the **best** features for the models
+* First, it was checked the **correlation** and chosen the **best** features for the models
 * For **normalization, balancing and training**, it was used the **Pipeline** function, since it helps to avoid the **data leakage**
 
 ### Evaluating the models
@@ -149,12 +149,12 @@ It was provided by the company a dataset containing the historical information o
 * For our the objective to **classify the risk of default** among the clients, it was **more important** that the number of **False Negatives** to be **as low as possible** in order to avoid future loss of credit. On the other hand, although also important, the number of False Positives would only prevent the company to concede loan to certain clients
 * We were then more focused on the **Recall** metric rather than the Precision. From the models evaluated, Decision Tree , Random Forest, Gradient Boosting and XGBoost are the ones with the higher score
 * Two more diagnostic tools used to help us decide for the best model were the **ROC** and **Precision-Recall** plot, being the latter preferred since it is appropriate for imbalanced datasets. The **AUC** is the area under the curves and can be used as the metric
-* The Decision Tree Classifier presented the best recall metric, however it didn't fit well for the validation dataset according to the plots. Also, there's no great difference between Random Forest and Gradient Boosting, being the first faster. This way, we choosed **Random Forest Classifier** and **XGBoost Classifier** for then and followed through with tuning
+* The Decision Tree Classifier presented the best recall metric, however it didn't fit well for the validation dataset according to the plots. Also, there's no great difference between Random Forest and Gradient Boosting, being the first faster. This way, we chose **Random Forest Classifier** and **XGBoost Classifier** for then and followed through with tuning
 
 ### Model tuning and model exportation
 
 * For tuning the models, it was used **GridSearchCV** function
-* Comparing the model results, we choosed **XGBoost Classifier** because it performed better on both the training set (recall metric) and the validation set (AUC metric)
+* Comparing the model results, we chose **XGBoost Classifier** because it performed better on both the training set (recall metric) and the validation set (AUC metric)
 * In order to explort the model to be further deployed, we used **Joblib** library
 
 ## Week 03
