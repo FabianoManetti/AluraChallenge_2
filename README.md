@@ -155,6 +155,7 @@ It was provided by the company a dataset containing the historical information o
 
 * For tuning the models, it was used **GridSearchCV** function
 * Comparing the model results, we chose **XGBoost Classifier** because it performed better on both the training set (recall metric) and the validation set (AUC metric)
+* Performance metrics: **76 Recall** and **90,4% AUC**
 * In order to explort the model to be further deployed, we used **Joblib** library
 
 ## Week 03
