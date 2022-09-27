@@ -166,7 +166,7 @@ It was provided by the company a dataset containing the historical information o
 
 ### Deploying the model
 
-* For this project, we used `**Streamlit**` framework to deploy our trained model. Along with the final prediction, the user will have access to interesting plots comparing the client situation to those from Alura Cash database.
+* For this project, we used **`Streamlit`** framework to deploy our trained model. Along with the final prediction, the user will have access to interesting plots comparing the client situation to those from Alura Cash database.
 
 Link for the web  app: https://fabianomanetti-alurachallenge-2-app-2fn8rn.streamlitapp.com
 
@@ -174,7 +174,7 @@ Link for the web  app: https://fabianomanetti-alurachallenge-2-app-2fn8rn.stream
 
 ### Creating a Dashboard
 
-* It was used `**Power BI**`software to create a dashboard showing the main client statistics.
+* It was used **`Power BI`** software to create a dashboard showing the main client statistics.
 
 Link for the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzZhZmM3ZTItNzIwZC00NjNlLTk0MTYtZTNiOTFmMDJiMGY4IiwidCI6IjA4ZDY3NWMwLWJkYTQtNDkzZC04MmI3LWU2YTM3MmQ5NTQ3ZCJ9
 
